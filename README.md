@@ -1,5 +1,5 @@
 # UTS_Sistem_Terdistribusi
 
-## Nama : Rizal Akbar Fitrianto
-## NIM : 23420001
-## Prodi : Teknik Informatika 20 B
+## Nama : firdhil
+## NIM : 23420028
+## Prodi : Teknik Informatika 20 A
